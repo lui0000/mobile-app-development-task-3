@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">mobile-app-development-task-3</string>
+    <string name="Button2">Button 2</string>
+    <string name="Button1">Button</string>
 </resources>
